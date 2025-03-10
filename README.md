@@ -1,5 +1,1 @@
-# Face_Recognition_OpenCV
-jhhgbgfyf
-kkkkkkkkkkkkk
-vvvvvvvvvvvvv
-'hhhhhhhhhhhhhhhh
+Hallo disni saya membuat Aplikasi Absensi Mahasiswa Menggunakan Face Recognition
